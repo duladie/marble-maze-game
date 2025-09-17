@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 20px;
+ }
+
+
+ h1 {
+    color: #49050bc;
+ }
+
+ canvas {
+    border: 2px solid #49050bc;
+    margin: 20 px auto;
+    display: block;
+ }
