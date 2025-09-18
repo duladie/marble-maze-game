@@ -5,9 +5,8 @@ function setup() {
 
 function draw() {
     // Game loop will go here
-  fill(255, 5, 245
-);
-  stroke(10000000);
+    fill(255, 5, 245);
+  strokeWeight(5);
   ellipse(300, 150, 60, 60);
 
 // Display game title
